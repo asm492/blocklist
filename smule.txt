@@ -1,0 +1,8 @@
+(\.|^)smule\.com$
+(\.|^)smle\.co$
+smule.c.footprint.net
+u-lml-fr.cdn.smule.com
+api.smule.com
+api-iris.smule.com
+api-sing.smule.com
+c-cl.cdn.smule.com
