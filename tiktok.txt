@@ -1,0 +1,9 @@
+(\.|^)tiktokv\.com$
+(\.|^)tiktokcdn\.com\.rocket-cdn\.com$
+(\.|^)tiktokcdn\.com$
+(\.|^)bytedance\.com$
+(\.|^)tiktokcdn-us\.com$
+p19-sign.tiktokcdn-us.com
+p16-sign.tiktokcdn-us.com
+vm.tiktok.com
+(\.|^)tiktok\.com$
